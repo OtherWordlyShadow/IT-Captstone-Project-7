@@ -33,3 +33,4 @@ During our second milestone we had to research various security tools we could u
 
 ## Milestone 3
 
+For the third and final milestone, we were given the task to test another team’s server for any vulnerabilities it may have had. The same thing was done with our server in which another team received our IP address and began to test it for vulnerabilities. After almost two weeks later we received notice that the other team had finally gotten through what we believe was our security defenses. There was good news and bad news within the report; the bad being that they did manage to get into our server through a form of social engineering/phishing, the good being that our security tools/software worked as intended against attacks. If not for the human made error, our server was found to be completely secure and the opposing team made sure to note that in our vulnerability report.

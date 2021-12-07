@@ -6,7 +6,7 @@ Capstone is a required class for senior students at Kennesaw State University. T
 
 ## This Capstone Project
 
-This capstone project in particular had us creating a security solution for a small business. We had to create and host a web server for this theoretical small business and create a security solution to apply to it, comrpised of open source security softwares. The project is broken up into milestones.
+This capstone project in particular is Information Technology, and had us creating a security solution for a small business. We had to create and host a web server for this theoretical small business and create a security solution to apply to it, comrpised of open source security softwares. The project is broken up into milestones.
 
 The server ran on Red Hat Enterprise Linux version 8.4.
 

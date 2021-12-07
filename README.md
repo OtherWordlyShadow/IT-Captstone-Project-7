@@ -18,6 +18,10 @@ This Capstone class is taught and cooridinated Dr. Ying Xie and our project spon
 
 Our team members are: Jessica Casasola, Craig Englert, Charles Pegram, James Vesper, and Phuc Nguyen.
 
+## IAB Presentation
+
+<a href="https://www.youtube.com/watch?v=5Vr-bMstsXE">This is a link to the IAB Presentation.</a>
+
 # Milestones
 
 ## Milestone 1
